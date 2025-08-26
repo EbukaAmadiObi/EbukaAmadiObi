@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋, I'm Ebuka
+- I'm a recent graduate who's interested in building user-centric tools and applications.
+- <img src="https://cdn-icons-png.flaticon.com/512/6033/6033716.png" width=2% height=2%> I'm currently a Production Engineering Fellow with Meta X MLH.
+- 🌱 I'm currently brushing up on my web dev skills with [Full Stack Open](https://fullstackopen.com/en/)
+- 📖 I just finished my Bachelor's thesis titled: "Edge AI as a Service Platform for Deploying AI/ML Applications"
 <!--
 **EbukaAmadiObi/EbukaAmadiObi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
